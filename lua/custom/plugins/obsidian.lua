@@ -10,6 +10,10 @@ return {
   opts = {
     workspaces = {
       {
+        name = "SteinarRefsdal",
+        path = "/Users/strea001/Library/Mobile Documents/iCloud~md~obsidian/Documents/SteinarRefsdal",
+      },
+      {
         name = "personal",
         path = "~/vaults/personal",
       },
