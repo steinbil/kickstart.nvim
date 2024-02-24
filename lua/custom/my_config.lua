@@ -3,3 +3,4 @@
 --
 -- See the kickstart.nvim README for more information
 --vim.o.conceallevel = 1
+require("custom.keybinds")
